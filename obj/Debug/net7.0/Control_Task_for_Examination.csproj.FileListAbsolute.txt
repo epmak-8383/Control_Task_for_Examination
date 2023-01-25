@@ -1,0 +1,15 @@
+C:\Users\user\C#\C#_Seminar\Control\Control_Task_for_Examination\bin\Debug\net7.0\Control_Task_for_Examination.exe
+C:\Users\user\C#\C#_Seminar\Control\Control_Task_for_Examination\bin\Debug\net7.0\Control_Task_for_Examination.deps.json
+C:\Users\user\C#\C#_Seminar\Control\Control_Task_for_Examination\bin\Debug\net7.0\Control_Task_for_Examination.runtimeconfig.json
+C:\Users\user\C#\C#_Seminar\Control\Control_Task_for_Examination\bin\Debug\net7.0\Control_Task_for_Examination.dll
+C:\Users\user\C#\C#_Seminar\Control\Control_Task_for_Examination\bin\Debug\net7.0\Control_Task_for_Examination.pdb
+C:\Users\user\C#\C#_Seminar\Control\Control_Task_for_Examination\obj\Debug\net7.0\Control_Task_for_Examination.csproj.AssemblyReference.cache
+C:\Users\user\C#\C#_Seminar\Control\Control_Task_for_Examination\obj\Debug\net7.0\Control_Task_for_Examination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\C#\C#_Seminar\Control\Control_Task_for_Examination\obj\Debug\net7.0\Control_Task_for_Examination.AssemblyInfoInputs.cache
+C:\Users\user\C#\C#_Seminar\Control\Control_Task_for_Examination\obj\Debug\net7.0\Control_Task_for_Examination.AssemblyInfo.cs
+C:\Users\user\C#\C#_Seminar\Control\Control_Task_for_Examination\obj\Debug\net7.0\Control_Task_for_Examination.csproj.CoreCompileInputs.cache
+C:\Users\user\C#\C#_Seminar\Control\Control_Task_for_Examination\obj\Debug\net7.0\Control_Task_for_Examination.dll
+C:\Users\user\C#\C#_Seminar\Control\Control_Task_for_Examination\obj\Debug\net7.0\refint\Control_Task_for_Examination.dll
+C:\Users\user\C#\C#_Seminar\Control\Control_Task_for_Examination\obj\Debug\net7.0\Control_Task_for_Examination.pdb
+C:\Users\user\C#\C#_Seminar\Control\Control_Task_for_Examination\obj\Debug\net7.0\Control_Task_for_Examination.genruntimeconfig.cache
+C:\Users\user\C#\C#_Seminar\Control\Control_Task_for_Examination\obj\Debug\net7.0\ref\Control_Task_for_Examination.dll
